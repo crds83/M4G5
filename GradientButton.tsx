@@ -1,6 +1,6 @@
 import React from 'react';
 import styled, { css, keyframes } from 'styled-components';
-import { FaRegHeart } from 'react-icons/fa';
+
 
 interface ButtonProps {
   label?: string;
