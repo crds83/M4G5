@@ -67,11 +67,3 @@ button:focus-visible {
   }
 }
 
-body {
-  background-image: url('https://www.rawpixel.com/image/1227100/beautiful-icelandic-nature');
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  margin: 0;
-  padding: 0;
-}
